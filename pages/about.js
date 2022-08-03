@@ -11,6 +11,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
+      <h1>About</h1>
     
     </div>
   )
