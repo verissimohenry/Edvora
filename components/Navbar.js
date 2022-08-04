@@ -19,18 +19,12 @@ const Navbar = () => {
     <Nav>
       <div>
         <Link href='/' passHref>
-          <StyledLink>NXT</StyledLink>
+          <StyledLink>Edvora</StyledLink>
         </Link>
       </div>
       <div>
         <Link href='/' passHref>
-          <StyledLink>Home</StyledLink>
-        </Link>
-        <Link href='/about' passHref>
-          <StyledLink>About</StyledLink>
-        </Link>
-        <Link href='/contact' passHref>
-          <StyledLink>Contact</StyledLink>
+          <StyledLink>Dhruv Singh</StyledLink>
         </Link>
       </div>
     </Nav>
